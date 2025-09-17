@@ -1,8 +1,8 @@
 ## Oi sou Jéssica 👋
 
-- 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Python, SQL, Pandas
-- 👯 Projetos Reais
+- 📊 Entre dados e código: unindo ciência de dados, Web e Mobile
+- 🌱 Estudante apaixonada por tecnologia e inovação.
+- 💻 Apredendo e construindo projetos Reais.
 
 
 <div>
