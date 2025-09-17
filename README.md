@@ -2,9 +2,8 @@
 
 - 📊 Entre dados e código: unindo ciência de dados, Web e Mobile
 - 🌱 Estudante apaixonada por tecnologia e inovação.
-- 💻 Apredendo e construindo projetos Reais.
-
-
+- 💻 Aprendendo e construindo projetos Reais.
+  
 <div>
 <a href="https://beacons.ai/DevJessi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJessi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
